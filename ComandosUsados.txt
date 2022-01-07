@@ -1,0 +1,17 @@
+Alejandro quiere -->
+
+Una pagina ABM de contactos (nombre, email, telefono, direccion) con:
+- login y registro
+- Buscador por email y nombre completo
+
+Comandos usados -->
+- composer create-project laravel/laravel Ejercicio-Zyla
+- php artisan make:model 'nombre' -mcr
+- php artisan migrate
+- php artisan ui bootstrap --auth
+- npm i y npm run dev
+- php artisan migrate:fresh
+- php artisan db:seed
+- php artisan make:seeder ContactoSeeder
+- php artisan migrate:fresh --seed
+ 
